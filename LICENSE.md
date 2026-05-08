@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with automatic Alfred for macOS Plugin | clipboard-manager + memory-optimization, the #1 plugin. Includes clipboard-manager and memory-optimization for a
 
 
 
